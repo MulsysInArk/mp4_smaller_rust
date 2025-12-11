@@ -1,0 +1,552 @@
+warning: `C:\Users\Administrator\.cargo\config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+   0.022928100s  INFO prepare_target{force=false package_id=mp4_shrink v0.1.0 (C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust) target="mp4_shrink"}: cargo::core::compiler::fingerprint: fingerprint error for mp4_shrink v0.1.0 (C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust)/Check { test: false }/TargetInner { name: "mp4_shrink", doc: true, ..: with_path("C:\\Users\\Administrator\\Documents\\Cprogram\\mp4_smaller_rust\\src\\main.rs", Edition2021) }
+   0.022961700s  INFO prepare_target{force=false package_id=mp4_shrink v0.1.0 (C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust) target="mp4_shrink"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\.fingerprint\mp4_shrink-7e9a53d4495822aa\bin-mp4_shrink`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.029371600s  INFO prepare_target{force=false package_id=clap v4.5.53 target="clap"}: cargo::core::compiler::fingerprint: fingerprint error for clap v4.5.53/Check { test: false }/TargetInner { benched: false, ..: lib_target("clap", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\rsproxy.cn-e3de039b2554c837\\clap-4.5.53\\src\\lib.rs", Edition2021) }
+   0.029398400s  INFO prepare_target{force=false package_id=clap v4.5.53 target="clap"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\.fingerprint\clap-97babfb204093902\lib-clap`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.029720800s  INFO prepare_target{force=false package_id=clap_builder v4.5.53 target="clap_builder"}: cargo::core::compiler::fingerprint: fingerprint error for clap_builder v4.5.53/Check { test: false }/TargetInner { benched: false, ..: lib_target("clap_builder", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\rsproxy.cn-e3de039b2554c837\\clap_builder-4.5.53\\src\\lib.rs", Edition2021) }
+   0.029733400s  INFO prepare_target{force=false package_id=clap_builder v4.5.53 target="clap_builder"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\.fingerprint\clap_builder-684b8bc6deac0dba\lib-clap_builder`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_path
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.030036700s  INFO prepare_target{force=false package_id=anstream v0.6.21 target="anstream"}: cargo::core::compiler::fingerprint: fingerprint error for anstream v0.6.21/Check { test: false }/TargetInner { ..: lib_target("anstream", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\rsproxy.cn-e3de039b2554c837\\anstream-0.6.21\\src\\lib.rs", Edition2021) }
+   0.030050000s  INFO prepare_target{force=false package_id=anstream v0.6.21 target="anstream"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\.fingerprint\anstream-c57e69f41b047944\lib-anstream`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_path
+  11: git_filter_source_path
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.030382000s  INFO prepare_target{force=false package_id=anstyle v1.0.13 target="anstyle"}: cargo::core::compiler::fingerprint: fingerprint error for anstyle v1.0.13/Check { test: false }/TargetInner { ..: lib_target("anstyle", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\rsproxy.cn-e3de039b2554c837\\anstyle-1.0.13\\src\\lib.rs", Edition2021) }
+   0.030395000s  INFO prepare_target{force=false package_id=anstyle v1.0.13 target="anstyle"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\.fingerprint\anstyle-35efa18f63f2affc\lib-anstyle`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_path
+  11: git_filter_source_path
+  12: git_filter_source_path
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: git_filter_source_repo
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.030675600s  INFO prepare_target{force=false package_id=anstyle-parse v0.2.7 target="anstyle_parse"}: cargo::core::compiler::fingerprint: fingerprint error for anstyle-parse v0.2.7/Check { test: false }/TargetInner { ..: lib_target("anstyle_parse", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\rsproxy.cn-e3de039b2554c837\\anstyle-parse-0.2.7\\src\\lib.rs", Edition2021) }
+   0.030689200s  INFO prepare_target{force=false package_id=anstyle-parse v0.2.7 target="anstyle_parse"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\.fingerprint\anstyle-parse-226d8907966e4db8\lib-anstyle_parse`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_path
+  11: git_filter_source_path
+  12: git_filter_source_path
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: git_filter_source_repo
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.031183500s  INFO prepare_target{force=false package_id=utf8parse v0.2.2 target="utf8parse"}: cargo::core::compiler::fingerprint: fingerprint error for utf8parse v0.2.2/Check { test: false }/TargetInner { ..: lib_target("utf8parse", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\rsproxy.cn-e3de039b2554c837\\utf8parse-0.2.2\\src\\lib.rs", Edition2018) }
+   0.031197500s  INFO prepare_target{force=false package_id=utf8parse v0.2.2 target="utf8parse"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\.fingerprint\utf8parse-d31ecb3a095d9b98\lib-utf8parse`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_path
+  11: git_filter_source_path
+  12: git_filter_source_path
+  13: git_filter_source_path
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: git_filter_source_repo
+  18: git_filter_source_repo
+  19: <unknown>
+  20: <unknown>
+  21: git_midx_writer_dump
+  22: git_filter_source_repo
+  23: git_midx_writer_dump
+  24: BaseThreadInitThunk
+  25: RtlUserThreadStart
+   0.031464500s  INFO prepare_target{force=false package_id=anstyle-query v1.1.5 target="anstyle_query"}: cargo::core::compiler::fingerprint: fingerprint error for anstyle-query v1.1.5/Check { test: false }/TargetInner { ..: lib_target("anstyle_query", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\rsproxy.cn-e3de039b2554c837\\anstyle-query-1.1.5\\src\\lib.rs", Edition2021) }
+   0.031476300s  INFO prepare_target{force=false package_id=anstyle-query v1.1.5 target="anstyle_query"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\.fingerprint\anstyle-query-578411c5639fbf4c\lib-anstyle_query`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_path
+  11: git_filter_source_path
+  12: git_filter_source_path
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: git_filter_source_repo
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.031786000s  INFO prepare_target{force=false package_id=windows-sys v0.61.2 target="windows_sys"}: cargo::core::compiler::fingerprint: fingerprint error for windows-sys v0.61.2/Check { test: false }/TargetInner { tested: false, doctest: false, ..: lib_target("windows_sys", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\rsproxy.cn-e3de039b2554c837\\windows-sys-0.61.2\\src\\lib.rs", Edition2021) }
+   0.031798500s  INFO prepare_target{force=false package_id=windows-sys v0.61.2 target="windows_sys"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\.fingerprint\windows-sys-5305b9ad5286c4dc\lib-windows_sys`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_path
+  11: git_filter_source_path
+  12: git_filter_source_path
+  13: git_filter_source_path
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: git_filter_source_repo
+  18: git_filter_source_repo
+  19: <unknown>
+  20: <unknown>
+  21: git_midx_writer_dump
+  22: git_filter_source_repo
+  23: git_midx_writer_dump
+  24: BaseThreadInitThunk
+  25: RtlUserThreadStart
+   0.032077400s  INFO prepare_target{force=false package_id=windows-link v0.2.1 target="windows_link"}: cargo::core::compiler::fingerprint: fingerprint error for windows-link v0.2.1/Check { test: false }/TargetInner { ..: lib_target("windows_link", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\rsproxy.cn-e3de039b2554c837\\windows-link-0.2.1\\src\\lib.rs", Edition2021) }
+   0.032088600s  INFO prepare_target{force=false package_id=windows-link v0.2.1 target="windows_link"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\.fingerprint\windows-link-040773b0e32c7ac3\lib-windows_link`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_path
+  11: git_filter_source_path
+  12: git_filter_source_path
+  13: git_filter_source_path
+  14: git_filter_source_path
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: git_filter_source_repo
+  18: git_filter_source_repo
+  19: git_filter_source_repo
+  20: <unknown>
+  21: <unknown>
+  22: git_midx_writer_dump
+  23: git_filter_source_repo
+  24: git_midx_writer_dump
+  25: BaseThreadInitThunk
+  26: RtlUserThreadStart
+   0.032441700s  INFO prepare_target{force=false package_id=anstyle-wincon v3.0.11 target="anstyle_wincon"}: cargo::core::compiler::fingerprint: fingerprint error for anstyle-wincon v3.0.11/Check { test: false }/TargetInner { ..: lib_target("anstyle_wincon", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\rsproxy.cn-e3de039b2554c837\\anstyle-wincon-3.0.11\\src\\lib.rs", Edition2021) }
+   0.032458400s  INFO prepare_target{force=false package_id=anstyle-wincon v3.0.11 target="anstyle_wincon"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\.fingerprint\anstyle-wincon-c7ae5f73acc86491\lib-anstyle_wincon`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_path
+  11: git_filter_source_path
+  12: git_filter_source_path
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: git_filter_source_repo
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.032763100s  INFO prepare_target{force=false package_id=once_cell_polyfill v1.70.2 target="once_cell_polyfill"}: cargo::core::compiler::fingerprint: fingerprint error for once_cell_polyfill v1.70.2/Check { test: false }/TargetInner { ..: lib_target("once_cell_polyfill", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\rsproxy.cn-e3de039b2554c837\\once_cell_polyfill-1.70.2\\src\\lib.rs", Edition2021) }
+   0.032774200s  INFO prepare_target{force=false package_id=once_cell_polyfill v1.70.2 target="once_cell_polyfill"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\.fingerprint\once_cell_polyfill-d159e8c26edf1da8\lib-once_cell_polyfill`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_path
+  11: git_filter_source_path
+  12: git_filter_source_path
+  13: git_filter_source_path
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: git_filter_source_repo
+  18: git_filter_source_repo
+  19: <unknown>
+  20: <unknown>
+  21: git_midx_writer_dump
+  22: git_filter_source_repo
+  23: git_midx_writer_dump
+  24: BaseThreadInitThunk
+  25: RtlUserThreadStart
+   0.033060300s  INFO prepare_target{force=false package_id=colorchoice v1.0.4 target="colorchoice"}: cargo::core::compiler::fingerprint: fingerprint error for colorchoice v1.0.4/Check { test: false }/TargetInner { ..: lib_target("colorchoice", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\rsproxy.cn-e3de039b2554c837\\colorchoice-1.0.4\\src\\lib.rs", Edition2021) }
+   0.033070700s  INFO prepare_target{force=false package_id=colorchoice v1.0.4 target="colorchoice"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\.fingerprint\colorchoice-f59529051f60f724\lib-colorchoice`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_path
+  11: git_filter_source_path
+  12: git_filter_source_path
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: git_filter_source_repo
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.033344900s  INFO prepare_target{force=false package_id=is_terminal_polyfill v1.70.2 target="is_terminal_polyfill"}: cargo::core::compiler::fingerprint: fingerprint error for is_terminal_polyfill v1.70.2/Check { test: false }/TargetInner { ..: lib_target("is_terminal_polyfill", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\rsproxy.cn-e3de039b2554c837\\is_terminal_polyfill-1.70.2\\src\\lib.rs", Edition2021) }
+   0.033359000s  INFO prepare_target{force=false package_id=is_terminal_polyfill v1.70.2 target="is_terminal_polyfill"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\.fingerprint\is_terminal_polyfill-037baa1c0c5597cf\lib-is_terminal_polyfill`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_path
+  11: git_filter_source_path
+  12: git_filter_source_path
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: git_filter_source_repo
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.033645800s  INFO prepare_target{force=false package_id=clap_lex v0.7.6 target="clap_lex"}: cargo::core::compiler::fingerprint: fingerprint error for clap_lex v0.7.6/Check { test: false }/TargetInner { benched: false, ..: lib_target("clap_lex", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\rsproxy.cn-e3de039b2554c837\\clap_lex-0.7.6\\src\\lib.rs", Edition2021) }
+   0.033660600s  INFO prepare_target{force=false package_id=clap_lex v0.7.6 target="clap_lex"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\.fingerprint\clap_lex-681f1d740ce580a3\lib-clap_lex`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_path
+  11: git_filter_source_path
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.034000800s  INFO prepare_target{force=false package_id=strsim v0.11.1 target="strsim"}: cargo::core::compiler::fingerprint: fingerprint error for strsim v0.11.1/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("strsim", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\rsproxy.cn-e3de039b2554c837\\strsim-0.11.1\\src\\lib.rs", Edition2015) }
+   0.034018300s  INFO prepare_target{force=false package_id=strsim v0.11.1 target="strsim"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\.fingerprint\strsim-013b2067aca31e95\lib-strsim`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_path
+  11: git_filter_source_path
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.035276800s  INFO prepare_target{force=false package_id=mp4_shrink v0.1.0 (C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust) target="mp4_shrink"}: cargo::core::compiler::fingerprint: fingerprint error for mp4_shrink v0.1.0 (C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust)/Check { test: true }/TargetInner { name: "mp4_shrink", doc: true, ..: with_path("C:\\Users\\Administrator\\Documents\\Cprogram\\mp4_smaller_rust\\src\\main.rs", Edition2021) }
+   0.035289500s  INFO prepare_target{force=false package_id=mp4_shrink v0.1.0 (C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust) target="mp4_shrink"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\.fingerprint\mp4_shrink-2d8b79203a425af4\test-bin-mp4_shrink`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+    Checking windows-link v0.2.1
+    Checking once_cell_polyfill v1.70.2
+    Checking utf8parse v0.2.2
+    Checking anstyle v1.0.13
+    Checking is_terminal_polyfill v1.70.2
+    Checking colorchoice v1.0.4
+    Checking clap_lex v0.7.6
+    Checking strsim v0.11.1
+    Checking windows-sys v0.61.2
+    Checking anstyle-parse v0.2.7
+    Checking anstyle-query v1.1.5
+    Checking anstyle-wincon v3.0.11
+    Checking anstream v0.6.21
+    Checking clap_builder v4.5.53
+    Checking clap v4.5.53
+    Checking mp4_shrink v0.1.0 (C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 1.94s

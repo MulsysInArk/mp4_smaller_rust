@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\deps\anstyle_parse-226d8907966e4db8.d: C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-parse-0.2.7\src\lib.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-parse-0.2.7\src\params.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-parse-0.2.7\src\state\mod.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-parse-0.2.7\src\state\definitions.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-parse-0.2.7\src\state\table.rs
+
+C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\deps\libanstyle_parse-226d8907966e4db8.rmeta: C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-parse-0.2.7\src\lib.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-parse-0.2.7\src\params.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-parse-0.2.7\src\state\mod.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-parse-0.2.7\src\state\definitions.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-parse-0.2.7\src\state\table.rs
+
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-parse-0.2.7\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-parse-0.2.7\src\params.rs:
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-parse-0.2.7\src\state\mod.rs:
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-parse-0.2.7\src\state\definitions.rs:
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-parse-0.2.7\src\state\table.rs:

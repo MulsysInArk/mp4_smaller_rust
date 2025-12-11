@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\deps\anstyle-35efa18f63f2affc.d: C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-1.0.13\src\lib.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-1.0.13\src\macros.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-1.0.13\src\color.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-1.0.13\src\effect.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-1.0.13\src\reset.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-1.0.13\src\style.rs
+
+C:\Users\Administrator\Documents\Cprogram\mp4_smaller_rust\target\debug\deps\libanstyle-35efa18f63f2affc.rmeta: C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-1.0.13\src\lib.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-1.0.13\src\macros.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-1.0.13\src\color.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-1.0.13\src\effect.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-1.0.13\src\reset.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-1.0.13\src\style.rs
+
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-1.0.13\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-1.0.13\src\macros.rs:
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-1.0.13\src\color.rs:
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-1.0.13\src\effect.rs:
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-1.0.13\src\reset.rs:
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\anstyle-1.0.13\src\style.rs:
