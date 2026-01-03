@@ -6,7 +6,7 @@
  * 本程序使用FFmpeg进行视频压缩，FFmpeg遵循LGPL/GPL许可证。
  * FFmpeg版权归FFmpeg开发者所有，详见 https://ffmpeg.org/legal.html
  * 
- * 本程序采用MIT许可证发布。
+ * 本程序采用GPL v3许可证发布。
  * 
  * 功能：
  * - 使用两遍编码技术精确控制输出文件大小
@@ -47,6 +47,7 @@ fn main() -> std::io::Result<()> {
     // 显示版权信息
     eprintln!("MP4视频压缩工具 v{}", env!("CARGO_PKG_VERSION"));
     eprintln!("Copyright (c) 2024");
+    eprintln!("本程序采用GPL v3许可证发布");
     eprintln!("本程序使用FFmpeg，FFmpeg遵循LGPL/GPL许可证");
     eprintln!();
 
