@@ -2,6 +2,10 @@
 name = "mp4_shrink"
 version = "0.1.0"
 edition = "2021"
+authors = ["Your Name"]
+description = "MP4视频压缩工具，使用两遍编码技术将视频压缩到指定大小"
+license = "MIT"
+repository = "https://github.com/yourusername/mp4_smaller_rust"
 
 [dependencies]
 clap = { version = "4", features = ["derive"] }
